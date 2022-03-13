@@ -1,0 +1,9 @@
+name: Pets
+version: '${project.version}'
+main: me.gamendecat.pets.Pets
+api-version: 1.18
+prefix: Pets
+authors: [ gamendecat ]
+description: A pets plugin!
+website: com.gamendecat.www
+softdepend: [EconomyShopGUI-Premium]
